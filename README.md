@@ -1,7 +1,7 @@
 Sona Karan
 
 Computer Science Student | Passionate Coder | Open Source Enthusiast
-Hello there! I'm Sona Kumari, a Computer Science student with a deep love for coding and all things tech. Welcome to my GitHub profile, where I strive to make a positive impact on the world through the power of code and collaboration.
+Hello there! I'm Sona Karan, a Computer Science student with a deep love for coding and all things tech. Welcome to my GitHub profile, where I strive to make a positive impact on the world through the power of code and collaboration.
 
 About Me
 
